@@ -1,4 +1,4 @@
-### Software Engineer based in Brazil 👋
+### Software Engineer based in Brazil
 
 ### > About me 🔋:
  - #### 📚Senior Year of a  Information Systems bachelor's degree at an university Brazil.
