@@ -2,7 +2,7 @@
 
 ### > About me 🔋:
  - #### 📚 Senior Year of a  Information Systems bachelor's degree at an university in Brazil.
- - #### 🎯 Mainly about web development, but also python and low level development.
+ - #### 🎯 Mainly about web development, but also knowledgeable python and low level development.
  - #### 🔨 Working as a Full Stack Engineer.
 ### > Technologies ⚙️:
 <a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;"></a>
