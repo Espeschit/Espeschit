@@ -1,7 +1,7 @@
 ### Software Engineer based in Brazil
 
 ### > About me 🔋:
- - #### 📚 Senior Year of a  Information Systems bachelor's degree at an university Brazil.
+ - #### 📚 Senior Year of a  Information Systems bachelor's degree at an university in Brazil.
  - #### 🎯 Mainly about web development, but also python and low level development.
  - #### 🔨 Working as a Full Stack Engineer.
 ### > Technologies ⚙️:
